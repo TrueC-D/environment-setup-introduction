@@ -1,43 +1,24 @@
-# Lesson Title
-
-All Readmes should follow a similar format when it comes to structure. Please
-refer to the [style guide][] for a detailed explaination of standards.
-
-## Learning Goals
-
-- [Check out this Readme on writing Learning Goals][goals]
+# Local Environment Setup
 
 ## Introduction
 
-Sometimes called an Overview, this section should contain a brief summary of
-what the lesson contains. Great introductions present a problem that is solved
-by the concepts reviewed in this lesson.
+When you first start learning to code the amount of setup you have to do to get
+your computer ready to really make something can be frustrating. However, you
+are no longer just starting to learn. It is now time to setup your local
+environment!
 
-## Contents
+The following lessons contain instructions for installing and configuring your
+computer with the tools you'll be using for the remainder of the course. This includes:
 
-Lessons often contain multiple sections of content. Use the Learning Goals
-you've defined to guide you on what sections and sub-sections are needed.
+- Setting up Git locally and connecting it to your personal GitHub account.
+- Installing Ruby and the Ruby Version Manager
+- Installing and connecting the Learn gem
+- Installing Rails
+- Installing Node and the Node Version Manager for JavaScript
 
-Refer to [this guide for assistance when writing Readmes][readmes]
+Instructions for Mac and Windows users are provided in separate lessons, so make
+sure to only follow the directions for your operating system.
 
-## Conclusion
-
-Wrap up the lesson with a brief review of what was covered. This is often a good
-place to connect the concepts discussed within a larger context.
-
-## Resources
-
-This is an optional section, but list and link to resources, articles, and
-websites that you think will be beneficial for additional reading. Also, if your
-written contents included external links, it may be good to add a second
-reference here:
-
-- [Style Guide][style guide]
-- [Writing Learning Goals][goals]
-- [Writing Readmes][readmes]
-
-[style guide]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/style_guide.md
-[goals]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-learning_objectives.md
-[readmes]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-writing_readme.md
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/readme-template' title='Readme Template.'>Readme Template.</p>
+We won't be using all of these tools immediately, but might as well get them
+configured now so you'll be able to jump right in when you get to Rails and
+JavaScript.
